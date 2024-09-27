@@ -1,0 +1,20 @@
+{
+  "name": "nodeles",
+  "version": "1.0.0",
+  "description": "'npm run dev'",
+  "main": "index.js",
+  "dependencies": {
+    "ansi-styles": "^4.3.0",
+    "chalk": "^4.1.2",
+    "color-convert": "^2.0.1",
+    "color-name": "^1.1.4",
+    "express": "^4.21.0",
+    "has-flag": "^4.0.0",
+    "supports-color": "^7.2.0"
+  },
+  "scripts": {
+  "dev": "node --watch index.js"    
+  },
+  "author": "",
+  "license": "ISC"
+}
